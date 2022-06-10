@@ -4,7 +4,7 @@ date: "2022-06-10"
 author: "YehiibHii"
 ---
 
-# Aqui Iniciamos
+# Aqui Iniciamos esta es la nueva versión del blog.
 
 Este es el primer post de este mes de Junio. ¿Qué es lo que vas a encontrar en este blog?, principalmente articulos relacionados con todo el ambiente de desarrollo que se genera alrededor de un **Ecosistema Digital Comercial**.
 
@@ -52,7 +52,7 @@ console.log(me.getInfo())
   ![Twitter Follow](https://img.shields.io/twitter/follow/venenodigital?style=social)
 
   ![Twitch Status](https://img.shields.io/twitch/status/yehiibhii?style=social)
-  
+
   ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8UhdMAKJX56O2PY8kzBIlw?style=social)
 
 
