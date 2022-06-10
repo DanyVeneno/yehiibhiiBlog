@@ -46,9 +46,13 @@ console.log(me.getInfo())
 
 <br>
 
+
 ![GitHub followers](https://img.shields.io/github/followers/DanyVeneno?style=social)
+
   ![Twitter Follow](https://img.shields.io/twitter/follow/venenodigital?style=social)
+
   ![Twitch Status](https://img.shields.io/twitch/status/yehiibhii?style=social)
+  
   ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8UhdMAKJX56O2PY8kzBIlw?style=social)
 
 
