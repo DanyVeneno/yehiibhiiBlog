@@ -17,6 +17,12 @@ El lema es:
 > **Tecnología Web de principiantes para principiantes.**
 
 
+<br>
+
+
+**Y no se olviden que aun ...La Mejor Estrategia Es Hacerlo.**
+
+
 ```js
 class Human{
   constructor(name, lastName, age, nationality, stacks, greeting){
