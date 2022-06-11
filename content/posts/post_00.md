@@ -1,21 +1,36 @@
-# Promocionando el Podcast
++++
+title = "Promocionando Podcast"
+date = "2022-04-23T22:25:09-05:00"
+author = "Daniel Vallejo"
+authorTwitter = "Veneno digital" #do not include @
+cover = ""
+tags = ["", ""]
+keywords = ["", ""]
+description = ""
+showFullContent = false
+readingTime = false
+hideComments = false
++++
+
+---
+
 
 #### Tecnología Web de principiantes para principiantes
 
 
-## :alien:  Elaborando
+##   Elaborando
 
 El podcast es un archivo de audio descargable que que puede o no ser de tu interes o de tu agrado ya que los creadores los desarrollan deacuerdo a sus intereses o por su simple gusto, puede o no tener un limite de tiempo o hasta que se acabe la charla es algo que el creador lo decide y eso es algo a lo cual hace 20 años no teniamos acceso, hoy cualquier persona que tenga un celular con internet puede ser el creador de un gran podcast y por cierto el nombre de podcast nace en la decada de los 00's en la epoca en la que MTV Era Mtv y fue creado por un vj  [Adam Curry](https://es.wikipedia.org/wiki/P%C3%B3dcast) y bien aqui tienen la información más explicita.
 
-# :notes: El Punto 
+#  El Punto 
 
-El punto es que ya es tambien un canal basico para llegar a las personas,tanto en la industria del entretenimiento como tambien es utilizado como canal para estrategia de Marketing,y bien aqui en el estudio no es la esepción tambien tenemos uno y ya estamos en la tercer temporada.
+El punto es que ya es tambien un canal basico para llegar a las personas,tanto en la industria del entretenimiento como tambien es utilizado como canal para estrategia de Marketing,y bien aqui en el estudio no es la excepción tambien tenemos uno y ya estamos en la tercer temporada.
 
 
 [Podcast | Tecnología Web de principiantes para principiantes](https://anchor.fm/dannyveneno)
 
 
-# :wolf: Conclusión
+#  Conclusión
 
 
 En el año 2020 fue el año del Podcast, más de 300,000. podcast fueron creados algunos lo utilizamos como estrategia, otros como un fin, otros para entretenerse, otros para ganar dinero, en fin las herramientas ahi estan.
