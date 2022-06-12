@@ -7,7 +7,7 @@ author = "YehiiBhii"
 # Saludos a todos y bienvenidos
 
 
-![](https://github.com/DanyVeneno/yehiibhiiBlog/blob/master/public/img/jv-.png)
+![](../../public/img/jv-.png)
 
 Hola mi nombre es Daniel soy una persona que le gusta escribir acerca de:
 
