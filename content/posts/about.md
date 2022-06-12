@@ -6,6 +6,10 @@ author = "YehiiBhii"
 
 # Saludos a todos y bienvenidos
 
+
+![](../../public/img/jv-.png)
+
+
 Hola mi nombre es Daniel soy una persona que le gusta escribir acerca de:
 
 1-Tecnología enfocada en el desarrollo Web / Movil y su entorno.
