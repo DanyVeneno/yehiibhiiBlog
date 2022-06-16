@@ -7,10 +7,11 @@ author = "YehiiBhii"
 # Saludos a todos y bienvenidos
 
 
+<figure>
 
-{{<img src="../../public/img/jv-.png">}}
+ <img src="../../public/img/jv-.png"/>
 
-
+</figure>
 
 
 
