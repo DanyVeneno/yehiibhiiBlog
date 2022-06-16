@@ -44,7 +44,7 @@ Una disrupción es una interrupción o rompimiento con la manera tradicional de 
 
 En las últimas décadas, el término disrupción ha sido utilizado en el area tecnológica y de negocios para referirse a la **_introducción de nuevos procesos, métodos o productos que cambian la forma en que tradicionalmente se hacía algo_**, agregando valor al sector al que están dirigidos.
 
-La disrupción también implica que aquello que estaba antes se vuelve obsoleto, dasdo que no está adecuado a las nuevas circuunstancias de negocio o consumo.
+La disrupción también implica que aquello que estaba antes se vuelve obsoleto, dado que no está adecuado a las nuevas circuunstancias de negocio o consumo.
 
 
 # Conclusión
