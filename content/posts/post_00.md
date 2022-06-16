@@ -22,6 +22,8 @@ hideComments = false
 
 El podcast es un archivo de audio descargable que que puede o no ser de tu interes o de tu agrado ya que los creadores los desarrollan deacuerdo a sus intereses o por su simple gusto, puede o no tener un limite de tiempo o hasta que se acabe la charla es algo que el creador lo decide y eso es algo a lo cual hace 20 años no teniamos acceso, hoy cualquier persona que tenga un celular con internet puede ser el creador de un gran podcast y por cierto el nombre de podcast nace en la decada de los 00's en la epoca en la que MTV Era Mtv y fue creado por un vj  [Adam Curry](https://es.wikipedia.org/wiki/P%C3%B3dcast) y bien aqui tienen la información más explicita.
 
+
+
 #  El Punto 
 
 El punto es que ya es tambien un canal basico para llegar a las personas,tanto en la industria del entretenimiento como tambien es utilizado como canal para estrategia de Marketing,y bien aqui en el estudio no es la excepción tambien tenemos uno y ya estamos en la tercer temporada.

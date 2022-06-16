@@ -6,7 +6,12 @@ author = "YehiiBhii"
 
 # Saludos a todos y bienvenidos
 
-{{< image src="../../public/img/jv-.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+<!--{{<img src="../../public/img/jv-.png">}}-->
+
+
+
+{{< figure src="../../public/img/jv-.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+
 
 Hola mi nombre es Daniel soy una persona que le gusta escribir acerca de:
 
