@@ -10,7 +10,7 @@ author = "YehiiBhii"
 
 
 
-{{< figure src="../../public/img/jv-.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{< figure src="../img/jv-.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 
 Hola mi nombre es Daniel soy una persona que le gusta escribir acerca de:
