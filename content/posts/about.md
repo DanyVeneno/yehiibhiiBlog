@@ -8,7 +8,7 @@ author = "YehiiBhii"
 
 
 
-<img src="../../public/img/jv-.png">
+{{<img src="../../public/img/jv-.png">}}
 
 
 
