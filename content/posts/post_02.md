@@ -82,9 +82,7 @@ Aqui una grafica al respecto:
 
 # Conclusión
 
-
-
-estamos ante un etapa de incertidumbre, de confusión, de parálisis y por supuesto de miedo paralizante. En donde no vemos por donde empezar a actuar muchos siguen haciendo lo mismo que venian haciendo antes de la temporada de pandemia esperando que vuelva la normalidad que teníamos antes de, yo lo veo muy complicado que asi ocurra ya que a lo que teníamos considerado como valioso para el dia a dia de nuestras vidas a dado un giro hay que descubrir en la actualidad y para los próximos años que es lo que las personas toman como valioso.
+Estamos ante un etapa de incertidumbre, de confusión, de parálisis y por supuesto de miedo paralizante. En donde no vemos por donde empezar a actuar, muchos siguen haciendo lo mismo que venian haciendo antes de la temporada de pandemia esperando que vuelva la normalidad que teníamos antes de, yo lo veo muy complicado que asi ocurra ya que a lo que teníamos considerado como valioso para el dia a dia de nuestras vidas a dado un giro hay que descubrir en la actualidad y para los próximos años que es lo que las personas toman como valioso.
 
 
 Bueno los puntos de arriba los retomaremos en el próximo post.
