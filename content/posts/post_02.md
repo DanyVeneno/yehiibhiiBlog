@@ -1,6 +1,6 @@
 +++
 title = "Patrones de Disrupción"
-date = "2022-04-23T22:25:09-05:00"
+date = "2022-06-23T22:25:09-05:00"
 author = "Daniel Vallejo"
 authorTwitter = "Veneno digital" #do not include @
 cover = ""
@@ -36,7 +36,7 @@ zombie no estamos realmente consientes de lo que estamos haciendo, [¿Cómo sali
 |:-:|:-:|:-:|:-:|
 | . | REFERENCIA |  Comerzialización | Producción |
 |
-|Grado en el cual los patrones reducen las barreras a:  | transformación de la ecuación valor/precio     | 1-Des-empaqueta productos y servicios   3 | 4-Converge productos         |
+|Grado en el cual los patrones reducen las barreras a:  | transformación de la ecuación valor/precio     | 1-Des-empaqueta productos y servicios   3 | 5-Converge productos         |
 |Grado en el cual los patrones reducen las barreras a:| transformación de la ecuación valor/precio         | 2-Reduce la cadena de valor         | 5-Alinea precio con uso         |
 |Grado en el cual los patrones reducen las barreras a:| Aprovechamiento de los efectos de la red         | 3-Desbloquea activos adyacentes      | 6-Desarrollo distribuido de producto         |
 |Grado en el cual los patrones reducen las barreras a:| Aprovechamiento de los efectos de la red         | 4-Expande el alcance del mercado        | 7-Plataformas de Producto         |
