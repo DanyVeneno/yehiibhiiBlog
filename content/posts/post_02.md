@@ -34,13 +34,13 @@ zombie no estamos realmente consientes de lo que estamos haciendo, [¿Cómo sali
 
 |#|.|Grado en el cual los patrones reducen las barreras a:|Grado en el cual los patrones reducen las barreras a:|
 |:-:|:-:|:-:|:-:|
-| . | REFERENCIA |  Comerzialización | Producción |
+| . | REFERENCIA |  Comercialización | Producción |
 |
-|Grado en el cual los patrones reducen las barreras a:  | transformación de la ecuación valor/precio     | 1-Des-empaqueta productos y servicios   3 | 5-Converge productos         |
-|Grado en el cual los patrones reducen las barreras a:| transformación de la ecuación valor/precio         | 2-Reduce la cadena de valor         | 5-Alinea precio con uso         |
-|Grado en el cual los patrones reducen las barreras a:| Aprovechamiento de los efectos de la red         | 3-Desbloquea activos adyacentes      | 6-Desarrollo distribuido de producto         |
-|Grado en el cual los patrones reducen las barreras a:| Aprovechamiento de los efectos de la red         | 4-Expande el alcance del mercado        | 7-Plataformas de Producto         |
-|Grado en el cual los patrones reducen las barreras a:| Aprovechamiento de los efectos de la red         | .         | 8-Conecta pares         |
+|Grado en el cual los patrones reducen las barreras a:  | transformación de la ecuación valor/precio     | 1-Des-empaqueta productos y servicios    | 5-Converge productos         |
+|Grado en el cual los patrones reducen las barreras a:| transformación de la ecuación valor/precio         | 2-Reduce la cadena de valor         | 6-Alinea precio con uso         |
+|Grado en el cual los patrones reducen las barreras a:| Aprovechamiento de los efectos de la red         | 3-Desbloquea activos adyacentes      | 7-Desarrollo distribuido de producto         |
+|Grado en el cual los patrones reducen las barreras a:| Aprovechamiento de los efectos de la red         | 4-Expande el alcance del mercado        | 8-Plataformas de Producto         |
+|Grado en el cual los patrones reducen las barreras a:| Aprovechamiento de los efectos de la red         | .         | 9-Conecta pares         |
 
 
 Esta es la grafica de los nueve patrones de disrupción tomar en cuenta que esto fue publicado antes de pandemia y que tal vez tengamos que ajustar y verificar esta información en este 2022, acontinuación escibire 5 puntos a tomar en cuenta y estos si son post pandemia:
@@ -52,30 +52,30 @@ Esta es la grafica de los nueve patrones de disrupción tomar en cuenta que esto
 **Construir resiliencia en las empresas:**
 y estas son las caracteristicas.
 
-1. Prepararse
-2. Adaptarse
-3. Colaborar
-4. Confianza
-5. Responsable
+1. Pensar y Prepararse
+2. Pensar y Adaptarse
+3. Ser Colaborativo
+4. Crear Confianza
+5. Ser Responsable
 
 3 de cada 4 CEO responde a la pregunta de que uno de los problemas que se pueden afrontar en los proximos 10 años es el de el cambio climatico
 
 Aqui una grafica al respecto:
 
 - **Cambio climático y sostenibilidad ambiental.**<br>
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 47%
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::: 47%
 
 - **Problemas de atención médica y prevención de enfermedades.**<br>
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 42%
+::::::::::::::::::::::::::::::::::::::::::::::::: 42%
 
 - **Brechas en la educación, las habilidades y la capacitación.**<br>
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 39%
+::::::::::::::::::::::::::::::::::::::::: 39%
 
 - **Desigualdad de ingresos y distribución de la riqueza.**<br>
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 37%
+:::::::::::::::::::::::::::: 37%
 
 - **Sesgo sistémico y desigualdad (por ejemplo, racismo, sexismo).**<br>
-:::::::::::::::::::::::::::::::::::::::::::::::: 31%
+:::::::::::::::::: 31%
 
 
 
