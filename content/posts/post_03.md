@@ -1,5 +1,3 @@
-
-
 +++
 title = "La Ruta De La Transformación"
 date = "2022-06-29T22:25:09-05:00"
@@ -15,6 +13,7 @@ hideComments = false
 +++
 
 ---
+
 
 # Elaborando
 
