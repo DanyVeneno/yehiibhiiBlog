@@ -1,6 +1,8 @@
+
+
 +++
 title = "La Ruta De La Transformación"
-date = "2022-06-28T22:25:09-05:00"
+date = "2022-06-29T22:25:09-05:00"
 author = "Daniel Vallejo"
 authorTwitter = "Veneno digital" #do not include @
 cover = ""
@@ -16,7 +18,7 @@ hideComments = false
 
 # Elaborando
 
-Una de las frases que adopte hace algún tiempo es **Disrupt yourself or not !** que significa, rompe por tu propia cuenta tus barreras mentales o espera a que tu entorno lo haga con el contexto de que estamos haciendo referencia a la forma de **_Vender nuestros productos y/o servicios._** en la actualidad.
+Una de las frases que adopte hace algún tiempo es **Disrupt yourself or not !** que significa, rompe por tu propia cuenta,  tus barreras mentales o espera a que tu entorno lo haga con el contexto de que estamos haciendo referencia a la forma de **_Vender nuestros productos y/o servicios._** en la actualidad.
 
 
 Desde hace algunos años que decidi empezar de nuevo con una ruta hacia el desarrollo y creación de tecnología que a sido una de las mejores desiciones que he tomado, ya habia experimentado una disrupción anterior a esta que estamos experimentando solo que a un nivel más específico en la ultima empresa donde trabaje cuando empezamos a posicionarnos nacionalmente me di cuenta que habia más tensión dentro de la organización ahi fue cuando conoci por primera vez la resistencia al cambío y como la identificamos bueno pues uno de los principales sintomas es dentro de la cultura laboral de tu organización no importando el tamaño y estos son almenos los que yo identifique: 
