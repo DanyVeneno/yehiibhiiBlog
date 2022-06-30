@@ -12,6 +12,6 @@ tus productos y/o servicios del Offline al Online .
 
 ### Conclusión
 
->Aún la mejor estrategia es hacerlo nos leemos en el proximo post
+> Aún la mejor estrategia es hacerlo nos leemos en el proximo post
 
 Gracias por leer.

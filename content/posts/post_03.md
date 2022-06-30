@@ -14,7 +14,6 @@ hideComments = false
 
 ---
 
-
 # Elaborando
 
 Una de las frases que adopte hace algún tiempo es **Disrupt yourself or not !** que significa, rompe por tu propia cuenta,  tus barreras mentales o espera a que tu entorno lo haga con el contexto de que estamos haciendo referencia a la forma de **_Vender nuestros productos y/o servicios._** en la actualidad.
@@ -74,9 +73,6 @@ Este es un indicativo de que  algo no estas haciendo bien o que lo que estas hac
 - Deshágase de los activos de bajo desempeño.
 
 <br>
-
-
-
 
 
 ## 3. **Construya Conciencia**
