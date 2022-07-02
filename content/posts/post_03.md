@@ -1,6 +1,6 @@
 +++
 title = "La Ruta De La Transformación"
-date = "2022-06-29T22:25:09-05:00"
+date = "2022-06-30T22:25:09-05:00"
 author = "Daniel Vallejo"
 authorTwitter = "Veneno digital" #do not include @
 cover = ""
