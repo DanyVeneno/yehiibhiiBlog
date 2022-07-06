@@ -14,7 +14,7 @@ hideComments = false
 
 ---
 
-# Elaborando
+#  Elaborando
 
 Una de las frases que adopte hace algún tiempo es **Disrupt yourself or not !** que significa, rompe por tu propia cuenta,  tus barreras mentales o espera a que tu entorno lo haga con el contexto de que estamos haciendo referencia a la forma de **_Vender nuestros productos y/o servicios._** en la actualidad.
 
