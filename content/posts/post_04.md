@@ -37,9 +37,9 @@ Recordemos que esta información fue publicada aproximadamente en el año 2016 y
 
 | .| Proveedor de Infraestructura|organizador de plataforma  | Asesor de Confianza | Producto  |
 |:---:|:---:|:---:|:---:|:---:|
-||Las compañías compiten en economías de escala,distribuyendo altos costos fijos a través de volumen grande. |Las compañías compiten en los efectos de red.|Las compañías compiten en entender la ampliación del alcance de las necesidades de los clientes.|Las compañías compiten en llevar productos innovadores más rápido al mercado.|
-||Centrada en el costo.|Centrada en los participantes.|Orientada al servicio.|Centrada en el desarrollo del producto.|
-||Diseño de procesos de volument alto|Conexión de recursos|Entender a los clientes|Desarrollo de producto|
+|.|Las compañías compiten en economías de escala,distribuyendo altos costos fijos a través de volumen grande. |Las compañías compiten en los efectos de red.|Las compañías compiten en entender la ampliación del alcance de las necesidades de los clientes.|Las compañías compiten en llevar productos innovadores más rápido al mercado.|
+|.|Centrada en el costo.|Centrada en los participantes.|Orientada al servicio.|Centrada en el desarrollo del producto.|
+|.|Diseño de procesos de volument alto|Conexión de recursos|Entender a los clientes|Desarrollo de producto|
 
 
 
