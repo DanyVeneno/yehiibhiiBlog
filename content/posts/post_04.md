@@ -12,11 +12,8 @@ readingTime = false
 hideComments = false
 +++
 
----
-
 
 # Elaborando
-
 
 
 Una de las preguntas que hay que hacerse es **¿Cómo sera el mercado y/o la industria en 5 o 10 años?** tomado en cuenta la disrupción digital que estamos experimentando. Pueden ir tomando nota en con el contenido del articulo anterior [**_La Ruta De La Transfromación_**](https://agreeable-water-009aeb410.1.azurestaticapps.net/posts/post_03/), la **fragmentación y la concentración** son conceptos clave en los cuales hay que poner atención para enteneder y complementar esta migración a lo digital.
