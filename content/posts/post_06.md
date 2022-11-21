@@ -63,7 +63,7 @@ class Human {
     ${this.stacks}y te manda saludos ${this.greeting}`;
   }
 }
-const me = newHuman(
+const me = new Human(
   "Daniel",
   "Vallejo",
   "44 Años",
