@@ -16,7 +16,7 @@ hideComments = false
 
 La personalización nace apartir de la necesidad de identidad ya sea a nivel personal o a nivel comercial. Desde tiempos memoriales la necesidad de organización nos a obligado a identificar atravéz de un objeto grafico, ya sea productos, servicios y/o personas.
 
-**La tinta, la aguja, la cera, el hierro, el hilo fuerón de las primeras herramientas** que se utilizarón como herramientas para la personalización, pero ese no es el punto el punto es:
+**La tinta, la aguja, la cera, el hierro, el hilo fuerón de los primeros objetos** que se utilizarón como herramientas para la personalización, pero ese no es el punto el punto es:
 
 <br>
 
