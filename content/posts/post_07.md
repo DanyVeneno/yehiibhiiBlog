@@ -22,7 +22,7 @@ En el 2020 dentro del podcast hable de como la tecnologia estaba siendo disrupti
 
 # El Punto
 
-<image src="../../public/img/tech.jpg" alt="Hello Friend" position="center" style="border-radius: 8px;" >
+{{<image src="../../public/img/tech.jpg" alt="Hello Friend" position="left" style="border-radius: 8px;" >}}
 
 <br/>
 
@@ -30,7 +30,7 @@ En el 2020 dentro del podcast hable de como la tecnologia estaba siendo disrupti
 
 El horizonte de la disrupción tecnológica es el punto en el futuro en el que se espera que una nueva tecnología o innovación tenga un impacto significativo en una industria o en la sociedad en general. Es difícil predecir con precisión cuándo exactamente se producirá una disrupción tecnológica, ya que depende de muchos factores, como la velocidad de desarrollo de la tecnología, la adopción por parte del mercado y otros factores externos. Sin embargo, lo que sí se sabe es que la tecnología está avanzando rápidamente y es probable que veamos más disrupciones en el futuro cercano.
 
-**_¡No se olviden qué, Aún... La Mejor Estrategia Es Hacerlo!_**
+**_¡Aún... La Mejor Estrategia Es Hacerlo!_**
 
 <br/>
 
