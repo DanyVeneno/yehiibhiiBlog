@@ -22,7 +22,7 @@ En el 2020 dentro del podcast hable de como la tecnologia estaba siendo disrupti
 
 # El Punto
 
-{{<image src="../../public/img/tech.jpg" alt="Hello Friend" position="left" style="border-radius: 8px;" >}}
+<image src="../../public/img/tech.jpg" alt="Hello Tech" position="left" style="border-radius: 8px;">
 
 <br/>
 
